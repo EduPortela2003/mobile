@@ -1,0 +1,32 @@
+
+  .ion-text-center{
+    color: rgb(245, 26, 26);
+    background-color: rgb(24, 22, 22);
+    border: none;
+    
+  
+  }
+
+  .insira{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .button{
+   border-color: rgb(126, 35, 18);
+   position: absolute;
+   width:99%;
+   background: none;
+  }
+  ion-content{
+    --background:url("../img/preto.jpg") 0 0/100% 100% no-repeat;
+  }
+  ion-title{
+    background-color: rgb(70, 221, 248);
+    color: aliceblue;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif ;
+  }
+  ion-list, ion-item{
+    --background:url("../img/preto.jpg") 0 0/100% 100% no-repeat;
+    color: rgb(241, 233, 233);
+  }
